@@ -1,4 +1,4 @@
-# Aspect-based Sentiment Analysis
+# Aspect-Term-Extraction-and-Analysis
 ## model:
 * Bert for Aspect Term Extraction: 
   https://github.com/1tangerine1day/Aspect-Term-Extraction-Analysis/blob/master/model/bert.py
