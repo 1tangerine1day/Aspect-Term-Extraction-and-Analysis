@@ -1,9 +1,12 @@
 # Aspect-based Sentiment Analysis
 ## model:
-* Bert for Aspect Term Extraction:
-* Bert for Aspect-based Sentiment Analysis:
+* Bert for Aspect Term Extraction: 
+  https://github.com/1tangerine1day/Aspect-Term-Extraction-Analysis/blob/master/model/bert.py
+* Bert for Aspect-based Sentiment Analysis: 
+  https://github.com/1tangerine1day/Aspect-Term-Extraction-Analysis/blob/master/model/bert.py
 
 ## dataset:
+
 * SemEval-2014 task4:
     * Laptops: 
         * train: 2327
@@ -14,7 +17,8 @@
     * twitter:
         * train: 6247
         * test: 691
-    
+
+https://github.com/1tangerine1day/Aspect-Term-Extraction-Analysis/tree/master/data 
 ![](https://i.imgur.com/KlNHGPo.png)
 
 ## performance:
